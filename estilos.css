@@ -1,3 +1,22 @@
-h1{
-    color: cadetblue;
+table,th,td{
+    border:1px solid rgb(0, 0, 0);
+    border-collapse: collapse;
+}
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue
+}
+.grey{
+    background-color: grey;
+}
+.amarillo{
+    background-color: yellow;
+}
+.rojo{
+    color: red;
+}
+.azul{
+    color: blue;
 }
