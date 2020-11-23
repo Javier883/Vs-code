@@ -1,7 +1,4 @@
-table,th,td{
-    border:1px solid rgb(0, 0, 0);
-    border-collapse: collapse;
-}
+
 .red{
     background-color: red;
 }
@@ -19,4 +16,24 @@ table,th,td{
 }
 .azul{
     color: blue;
+}
+.fondo{
+    background-color: #485871 ;
+}
+nav{
+    background-color: #ceceda;
+    color: #546785;
+} 
+.letraverde{
+    color: #11d6a5;
+}
+.fondodropdown{
+    color: #ceceda;
+}
+.letraazuloscuro{
+    color: #36475f;
+}
+.tablaprendas{
+    text-align: center;
+    background-color: #ceceda;
 }
