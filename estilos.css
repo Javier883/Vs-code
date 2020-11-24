@@ -18,22 +18,25 @@
     color: blue;
 }
 .fondo{
-    background-color: #485871 ;
+    background-color: #2e0108 ;
 }
 nav{
-    background-color: #ceceda;
+    background-color:#dadcd9;
     color: #546785;
 } 
 .letraverde{
-    color: #11d6a5;
+    color: #133a5b;
 }
 .fondodropdown{
-    color: #ceceda;
+    color: #dadcd9;
 }
 .letraazuloscuro{
     color: #36475f;
 }
 .tablaprendas{
     text-align: center;
-    background-color: #ceceda;
+    background-color: #dadcd9;
+}
+.lato { 
+	font-family: Lato; 
 }
