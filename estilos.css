@@ -40,3 +40,10 @@ nav{
 .lato { 
 	font-family: Lato; 
 }
+.hoverlink:link:hover{
+    background-color:#545753 ;
+    color: #49e914;
+}
+.letralinks{
+    color: #545753;
+}
