@@ -1,29 +1,15 @@
 
-.red{
-    background-color: red;
-}
-.blue{
-    background-color: blue
-}
-.grey{
-    background-color: grey;
-}
-.amarillo{
-    background-color: yellow;
-}
-.rojo{
-    color: red;
-}
-.azul{
-    color: blue;
-}
+
 .fondo{
     background-color: #2e0108 ;
 }
-nav{
+.nav1{
     background-color:#dadcd9;
     color: #546785;
 } 
+.nav2{
+    background-color: black;
+}
 .letraverde{
     color: #133a5b;
 }
@@ -41,9 +27,15 @@ nav{
 	font-family: Lato; 
 }
 .hoverlink:link:hover{
-    background-color:#545753 ;
-    color: #49e914;
+    background-color:#90948f ;
+    
 }
 .letralinks{
     color: #545753;
+}
+.CopperplateGothic{
+    font-family: Copperplate Gothic;
+}
+.letragris{
+    color: #dadcd9 ;
 }
