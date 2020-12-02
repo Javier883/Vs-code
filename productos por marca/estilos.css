@@ -1,0 +1,47 @@
+
+
+.fondo{
+    background-color: #2e0108 ;
+}
+.nav1{
+    background-color:#dadcd9;
+    color: #546785;
+} 
+.nav2{
+    background-color: black;
+}
+.letraverde{
+    color: #133a5b;
+}
+.fondodropdown{
+    color: #dadcd9;
+}
+.letraazuloscuro{
+    color: #36475f;
+}
+.tablaprendas{
+    text-align: center;
+    background-color: #dadcd9;
+}
+.lato { 
+	font-family: Lato; 
+}
+.hoverlink:link:hover{
+    background-color:#90948f ;
+    
+}
+.letralinks{
+    color: #545753;
+}
+.CopperplateGothic{
+    font-family: Copperplate Gothic;
+}
+.letragris{
+    color: #dadcd9 ;
+}
+.fondopaginasoficiales{
+    background-color: #26273c;
+}
+.centrar{
+    align-items: center ;
+}
