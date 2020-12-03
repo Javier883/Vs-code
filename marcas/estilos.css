@@ -45,3 +45,27 @@
 .centrar{
     align-items: center ;
 }
+.fondonav1{
+    background-color: #343a40;
+}
+.letragrisoscuro{
+    color: #343a40;
+}
+.fondonav2{
+    background-color:  white;
+}
+.letraazulclaro{
+    color: rgb(72, 72, 177);
+}
+.fondoverde{
+    background-color: #919d37;
+}
+.letraverde{
+    color: #919d37;
+}
+.nav3{
+    background-color: #28a745;
+}
+.nav4{
+    background-color: rgb(243, 44, 44);
+}
