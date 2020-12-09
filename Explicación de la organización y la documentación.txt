@@ -1,0 +1,21 @@
+Organización:
+
+La estructura de esta web esta dividida en 4 tipos de estructuras para las páginas:
+
+La primera sería la independiente las cuales vendrían siendo las páginas con una estructura propia(index.html, páginasoficiales.html y créditos.html)
+Todas estas están comentadas
+
+La segunda serían las páginas de cada marca que están todas reunidas en la carpeta "marcas".
+Estas páginas tienen todas la misma estructura y por ello solo he comentado la página de polo.
+Esta carpeta cuenta con su propia hoja de estilos que es basicamente la original (estilos.css) pero con algún que otro cambio para que me sea mas ameno cambiar los estilos para la estructura de las marcas.
+
+La tercera serían las páginas de cada prenda que están todas reunidas en la carpeta "prendas".
+Estas páginas tienen todas la misma estructura y por ello solo he comentado la página de calzado.
+Esta carpeta cuenta con su propia hoja de estilos que es basicamente la original (estilos.css) pero con algún que otro cambio para que me sea mas ameno cambiar los estilos para la estructura de las prendas.
+
+La tercera serían las páginas de productos por marca que están todas reunidas en la carpeta "productos por marca".
+Cada marca cuenta con 7 prendas y para cada prenda me gustaría incluir 4 productos con sus respectiva imagen y su enlace a la Web oficial, pero debido a que no dispongo de tanto tiempo me he dedicado a hacer toda una marca polo, las demás prendas de cada marca estan creados los archivos .txt para ser rellenados.
+Estas páginas tienen todas la misma estructura y por ello solo he comentado la página de poloSudaderas.
+Esta carpeta cuenta con su propia hoja de estilos que es basicamente la original (estilos.css) pero con algún que otro cambio para que me sea mas ameno cambiar los estilos para la estructura de los productos por marca.
+
+El resto de carpetas cuenta con imágenes que he usado para la creación de la WEB teniendo cada carpeta el uso que le he dado a las imágenes por nombre.
